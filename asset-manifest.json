@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c83ad2aa.css",
+    "main.js": "/static/js/main.0d0eae78.js",
+    "static/js/453.e1bfbaff.chunk.js": "/static/js/453.e1bfbaff.chunk.js",
+    "static/media/fjboxstudio-20241115-0007.jpg": "/static/media/fjboxstudio-20241115-0007.ff3d48aa953bf474f417.jpg",
+    "static/media/portrait.jpg": "/static/media/portrait.6b996cf7e0331254d8db.jpg",
+    "static/media/fjboxstudio-20241115-0002.jpg": "/static/media/fjboxstudio-20241115-0002.08920f4eb7a77ae0b755.jpg",
+    "static/media/fjboxstudio-20241115-0006.jpg": "/static/media/fjboxstudio-20241115-0006.57b59b3f7e3dfc82aa29.jpg",
+    "static/media/fjboxstudio-20241115-0005.jpg": "/static/media/fjboxstudio-20241115-0005.8b7e1183c30c09886253.jpg",
+    "static/media/fjboxstudio-20241115-0003.jpg": "/static/media/fjboxstudio-20241115-0003.37e6e740621ff9b5c534.jpg",
+    "static/media/fjboxstudio-20241115-0004.jpg": "/static/media/fjboxstudio-20241115-0004.475ef4f6d221614f8919.jpg",
+    "static/media/logo-2.png": "/static/media/logo-2.1050d3b22308753f37d5.png",
+    "static/media/logo-background.svg": "/static/media/logo-background.64b120a344a6bb0e6d8b534653ff4764.svg",
+    "static/media/fjboxstudio-20241115-0008.jpg": "/static/media/fjboxstudio-20241115-0008.b81265f0499867466345.jpg",
+    "static/media/fjboxstudio-20241115-0001.jpg": "/static/media/fjboxstudio-20241115-0001.5b203429a4ad61491845.jpg",
+    "index.html": "/index.html",
+    "main.c83ad2aa.css.map": "/static/css/main.c83ad2aa.css.map",
+    "main.0d0eae78.js.map": "/static/js/main.0d0eae78.js.map",
+    "453.e1bfbaff.chunk.js.map": "/static/js/453.e1bfbaff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c83ad2aa.css",
+    "static/js/main.0d0eae78.js"
+  ]
+}
